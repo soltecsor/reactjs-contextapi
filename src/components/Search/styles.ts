@@ -12,3 +12,20 @@ export const InputSearch = styled.input`
     padding:6px 10px;
     font-size:16px;
 `;
+
+export const CloseButton = styled.span`
+    position:absolute;
+    right:0;
+    padding-right: 3em;
+    cursor: pointer;
+    font-size:1em;
+    padding-top:1em;
+    &>span{
+        width:1.2em;
+        height: 1.2em;
+        background: #eeeeee;
+        padding:0.2em 0.5em;
+        border-radius: 100px;
+        border:1px solid #bcbcbc;
+    }
+`;
