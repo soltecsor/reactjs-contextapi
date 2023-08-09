@@ -1,0 +1,40 @@
+{
+    "breeds":[
+        {"id":1,"breed":"australian","variety":"shepherd"},
+        {"id":2,"breed":"buhund","variety":"norwegian"},
+        {"id":3,"breed":"bulldog","variety":"boston"},
+        {"id":4,"breed":"bulldog","variety":"english"},
+        {"id":5,"breed":"bullterrier","variety":"staffordshire"},
+        {"id":6,"breed":"cattledog","variety":"australian"},
+        {"id":7,"breed":"dane","variety":"great"},
+        {"id":8,"breed":"deerhound","variety":"scottish"},
+        {"id":9,"breed":"hound","variety":"afghan"},
+        {"id":10,"breed":"hound","variety":"basset"},
+        {"id":11,"breed":"hound","variety":"blood"},
+        {"id":12,"breed":"hound","variety":"english"},
+        {"id":13,"breed":"hound","variety":"ibizan"},
+        {"id":14,"breed":"hound","variety":"plott"},
+        {"id":15,"breed":"hound","variety":"walker"},
+        {"id":16,"breed":"mastiff","variety":"bull"},
+        {"id":17,"breed":"mastiff","variety":"english"},
+        {"id":18,"breed":"mastiff","variety":"tibetan"},
+        {"id":19,"breed":"mountain","variety":"bernese"},
+        {"id":20,"breed":"mountain","variety":"swiss"},
+        {"id":21,"breed":"poodle","variety":"medium"},
+        {"id":22,"breed":"poodle","variety":"miniature"},
+        {"id":23,"breed":"poodle","variety":"standard"},
+        {"id":24,"breed":"poodle","variety":"toy"},
+        {"id":26,"breed":"retriever","variety":"chesapeake"},
+        {"id":27,"breed":"retriever","variety":"curly"},
+        {"id":28,"breed":"retriever","variety":"flatcoated"},
+        {"id":29,"breed":"retriever","variety":"golden"},
+        {"id":30,"breed":"spitz","variety":"japanese"}
+
+
+    ]
+}     
+
+    
+    
+        
+    
